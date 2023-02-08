@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sohel51.github.io/portfolio/](https://sohel51.github.io/portfolio/)
 
-- 💬 Ask me about **MERN, React, MongoDB, Node, Express, HTML, CSS, JavaScript**
+- 💬 Ask me about **MERN, React, MongoDB, Node, Express, HTML, CSS, JavaScript & More**
 
 - 📫 How to reach me **sohelrana58624@gmail.com**
 
